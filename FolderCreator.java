@@ -1,4 +1,4 @@
-package assignment4;
+package recursivefilesearch;
 
 import java.io.File;
 import java.io.IOException;
