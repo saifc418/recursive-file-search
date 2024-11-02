@@ -1,8 +1,8 @@
-package assignment4;
+package recursivefilesearch;
 
 import java.io.File;
 
-public class CSCI221_F24_PA4_ChaudhrySaif_0818_RFS {
+public class RecursiveFileSearch {
 
 	// Method to count the number of .txt files in a folder and its subfolders
 	public static int countTextFiles(File folder) {
